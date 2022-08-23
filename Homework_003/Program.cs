@@ -1,6 +1,4 @@
 ﻿// Написать программу копирования массива
-//Console.WriteLine("Введите размер массива: ");
-//int n = int.Parse(Console.ReadLine() ?? "0");
 
 void CopyArray(int[] arr, int[] arr1, int size)
 {   
